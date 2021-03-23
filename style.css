@@ -1,26 +1,29 @@
-body{
-    background-color: darkgrey;
+.container{
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+    padding: 10px
 }
 
 
 .top-nav{
-    width: 685px;
+    width: 930px;
     height: 100px;
     margin: 10px;
     background-color: green;
 }
 
 .side-nav{
-    height: 220px;
+    height: 300px;
     margin: 10px;
-    width: 150px;
+    width: 200px;
     background-color: blue;
 }
 
 .main{
-    height: 300px;
+    height: 400px;
     margin: 10px;
-    width: 500px;
+    width: 650px;
     background-color: red;
     padding: 5px;
     
@@ -29,8 +32,8 @@ body{
 .sub-content{
     display: inline-block;
     background-color: yellow;
-    width: 140px;
-    height: 140px;
+    width: 175px;
+    height: 175px;
     box-sizing: border-box;
     padding: 10px;
     margin: 5px;
@@ -40,8 +43,8 @@ body{
 
 #advertisement{
     background-color: purple;
-    width: 445px;
-    height: 100px;
+    width: 550px;
+    height: 150px;
     box-sizing: border-box;
     padding: 20px;
     margin: 5px;
